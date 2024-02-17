@@ -1,0 +1,9 @@
+clear
+clc
+
+s= tf('s');
+R = 1000;
+C = 1e-6;
+total = 1/(R*C);
+func = total/(s+total);
+step(func)
