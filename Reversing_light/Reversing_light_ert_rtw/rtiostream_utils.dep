@@ -1,0 +1,11 @@
+rtiostream_utils.o: \
+ D:/matlab_set/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ D:/matlab_set/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ C:/Users/Administrator/Desktop/mohamed_works/Reversing_light/Reversing_light_ert_rtw/rtwtypes.h \
+ D:/matlab_set/toolbox/coder/rtiostream/src/rtiostream.h
+
+D:/matlab_set/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+C:/Users/Administrator/Desktop/mohamed_works/Reversing_light/Reversing_light_ert_rtw/rtwtypes.h:
+
+D:/matlab_set/toolbox/coder/rtiostream/src/rtiostream.h:
