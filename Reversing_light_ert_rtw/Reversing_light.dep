@@ -1,0 +1,29 @@
+Reversing_light.o: \
+ C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/Reversing_light.c \
+ C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/Reversing_light.h \
+ C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/rtwtypes.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/rtwtypes.h \
+ C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/standard/pins_arduino.h
+
+C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/Reversing_light.h:
+
+C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/rtwtypes.h:
+
+C:/Users/Administrator/Desktop/car_reversing_lights/model/Reversing_light_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/standard/pins_arduino.h:
